@@ -20,7 +20,7 @@ This project is ideal for developers who want to **learn Flutter UI design**, ex
 
 <div align="center">
   
-  ![intro](screenshots/)
+  ![intro](screenshots/shop.jpeg)
     
 </div>
 
