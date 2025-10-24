@@ -16,6 +16,14 @@ This project is ideal for developers who want to **learn Flutter UI design**, ex
 
 ---
 
+## 🎬 Intro
+
+<div align="center">
+  
+  ![intro](screenshots/)
+    
+</div>
+
 ## ✨ Features
 
 * 🛒 **Product Catalog** — Browse through a wide range of visually rich product cards.
@@ -31,9 +39,10 @@ This project is ideal for developers who want to **learn Flutter UI design**, ex
 <div align="left">
   <table>
     <tr>
-      <td><img src="screenshots/ecommerce1.jpg" alt="E-commerce App Example 1" width="250"/></td>
-      <td><img src="screenshots/ecommerce2.jpg" alt="E-commerce App Example 2" width="250"/></td>
-      <td><img src="screenshots/ecommerce3.jpg" alt="E-commerce App Example 3" width="250"/></td>
+      <td><img src="screenshots/image1.jpg" alt="E-commerce App Example 1" width="250"/></td>
+      <td><img src="screenshots/image2.jpg" alt="E-commerce App Example 2" width="250"/></td>
+      <td><img src="screenshots/image3.jpg" alt="E-commerce App Example 3" width="250"/></td>
+      <td><img src="screenshots/image4.jpg" alt="E-commerce App Example 3" width="250"/></td>
     </tr>
   </table>
 </div>
